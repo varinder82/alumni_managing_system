@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.1, created on 2023-10-05 20:55:33
+/* Smarty version 4.3.1, created on 2023-10-08 14:39:42
   from 'C:\wamp\www\admidio\adm_themes\simple\templates\index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_651ed56d6c14c9_30571811',
+  'unifunc' => 'content_652271d6167603_24857751',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4d51b58a77bb21f7458c3184ec1024a6d85f2b99' => 
     array (
       0 => 'C:\\wamp\\www\\admidio\\adm_themes\\simple\\templates\\index.tpl',
-      1 => 1696519530,
+      1 => 1696521013,
       2 => 'file',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:cookie_note.tpl' => 1,
   ),
 ),false)) {
-function content_651ed56d6c14c9_30571811 (Smarty_Internal_Template $_smarty_tpl) {
+function content_652271d6167603_24857751 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
 <html>
 <head>
@@ -120,7 +120,7 @@ function content_651ed56d6c14c9_30571811 (Smarty_Internal_Template $_smarty_tpl)
 </span>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon">rahul</span>
+            <span class="navbar-toggler-icon"></span>
         </button>
         <div id="navbarNav" class="collapse navbar-collapse">
             <ul class="navbar-nav ml-auto">
