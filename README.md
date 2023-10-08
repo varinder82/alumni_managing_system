@@ -1,1 +1,1 @@
-# alumni_managing_system
+#  welcome to gndec alumni Portal
